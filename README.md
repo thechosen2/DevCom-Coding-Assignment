@@ -1,5 +1,6 @@
-# DevCom-Coding-Assignment
-DevCom coding assignment for freshers
+# Preface
+(i dont know how to write readme files)
+I'm Pranav Malpani, a Btech student in the EE department here at IIT Bombay, and this is my submission for devcom's recruitment assignment.
 # PS1:
 I have tried to create a website that encapsulates me as a person and i'm pretty happy with the result. Try to click around, there's lots of hidden animations and easter eggs you can find!
 # PS2:
@@ -10,4 +11,3 @@ The assignment 1 is a simple website i built in vscode, it will work if you have
 
 As for assignment 2, i edited and ran the code on colab itself, but other methods of running it should also work, i dont see a problem with that.
 
-(i dont know how to write readme files)
