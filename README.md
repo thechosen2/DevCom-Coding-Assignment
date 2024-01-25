@@ -9,5 +9,5 @@ I have tried to solve the problem as i understood it. According to me, we had to
 # Running the Code:
 The assignment 1 is a simple website i built in vscode, it will work if you have downloaded the folder completely and then are running it using the liveserver extension. The typeit library i have used will requre an internet connection to actually work. But, I have ensured that the text still displays even when offline. I have also used a service called web3forms for the mailing aspect of it.
 
-As for assignment 2, i edited and ran the code on colab itself, but other methods of running it should also work, i dont see a problem with that.
+As for assignment 2, i edited and ran the code on colab itself, but other methods of running it should also work, i dont see any possible problems with that.
 
