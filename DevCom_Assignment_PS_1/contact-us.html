@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me - Pranav Malpani</title>
+    <link rel="stylesheet" href="contact-us.css">
+</head>
+
+<div class="background"></div>
+<body>
+    <header class="column-container">
+        <h1>Pranav</h1>
+        <p>Contact Me</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="https://www.instagram.com/anavpr.ay/" style="float: right;" id="socials-insta" target="_blank"><img src="instagram.png" style="width: 24px; height: 24px;"></a>
+        <a href="https://www.linkedin.com/in/pranav-malpani-1719aa282/" style="float:right;" id="socials-linkedin" target="_blank"><img src="linkedin.png" style="width: 24px; height: 24px;"></a>
+    </nav>
+    <section class="center">
+        <form method="POST" action="https://api.web3forms.com/submit" class="contact-us">
+            <input type="hidden" name="access_key" value="14a85eea-505f-476a-bdca-094d7fef2330">
+            <textarea name="from" placeholder="from" class="from" required></textarea>
+            <br>
+            <br>
+            <textarea name="email" placeholder="email" class="email" required></textarea>
+            <br>
+            <br>
+            <textarea name="message" placeholder="Your message..." class="message" required></textarea>
+            <div style="padding-top:2vh"><input type="submit" value="Send >" class="Send-button"></div>
+        </form>
+    </section>
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
